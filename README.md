@@ -6,11 +6,17 @@ This project presents an interactive IPL (Indian Premier League) Tournament Perf
 The dashboard provides comprehensive insights into:
 
 📊 Total Matches, Teams, Players, and Seasons
+
 🏆 Team Performance Analysis
+
 🌟 Best Player & Player of the Match Analysis
+
 📈 Strike Rate & Batting Performance
+
 🗺️ City-wise Match Hosting Analysis
+
 🏠 Home vs Away Performance
+
 📅 Season-wise Winners
 
 The goal of this project is to perform exploratory data analysis (EDA) and visualize key performance indicators to identify trends and patterns in IPL history.
